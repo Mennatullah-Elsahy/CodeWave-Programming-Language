@@ -29,9 +29,9 @@ The CodeWave grammar consists of the following terminals and non-terminals:
 To use CodeWave, write a program in the CodeWave language using the grammar rules above, and then compile or interpret it using a CodeWave compiler or interpreter.
 
 # Example
-Here is an example CodeWave program that calculates the factorial of the number 5 and outputs the result:
+### Here is an example CodeWave program that calculates the factorial of the number 5 and outputs the result:
 ![image](https://user-images.githubusercontent.com/100795596/235823193-a9f13027-877c-4964-abef-d2f2f1d687f6.png)
-And here's an example CodeWave program with an error:
+### And here's an example CodeWave program with an error:
 ![image](https://user-images.githubusercontent.com/100795596/235823472-7a01561f-b83b-4f70-a99a-cf3d2b1cdaee.png)
 
 
