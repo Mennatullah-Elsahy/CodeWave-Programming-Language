@@ -1,0 +1,12 @@
+C:\Users\EveresT\source\repos\CodeWave\bin\Debug\CodeWave.exe
+C:\Users\EveresT\source\repos\CodeWave\bin\Debug\CodeWave.pdb
+C:\Users\EveresT\source\repos\CodeWave\bin\Debug\CalithaLib.dll
+C:\Users\EveresT\source\repos\CodeWave\bin\Debug\GoldParserEngine.dll
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.csproj.AssemblyReference.cache
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.Form1.resources
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.Properties.Resources.resources
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.csproj.GenerateResource.cache
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.csproj.CoreCompileInputs.cache
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.csproj.CopyComplete
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.exe
+C:\Users\EveresT\source\repos\CodeWave\obj\Debug\CodeWave.pdb
